@@ -1,0 +1,48 @@
+
+body{
+    background-color: rgb(223, 217, 210);
+}
+
+section{
+    display: block;
+}
+h1{
+    color: rgb(204, 8, 8);
+}
+p{
+    color: black;
+}
+h2{
+    color: brown;
+}
+h3{
+    color: rgb(69, 65, 65);
+}
+#box1{ 
+    padding: 10px ;
+    width: 700px ;
+    height: 700px  ;
+    border: 5px solid;
+    margin: auto;
+    background-color: azure ;
+    font: size 22px; 
+    position: relative;
+}
+#box2{
+    padding: 10px ;
+    width: 700px ;
+    height: 500px  ;
+    border: 5px solid;
+    margin: auto;
+    background-color: azure ;
+    font: size 22px;
+}
+#box3{
+    padding: 10px ;
+    width: 700px ;
+    height: 200px  ;
+    border: 5px solid;
+    margin: auto;
+    background-color: azure ;
+    font: size 22px;
+}
